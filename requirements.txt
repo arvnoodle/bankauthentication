@@ -3,6 +3,7 @@ scipy
 scikit-learn
 matplotlib
 pandas
+python-multipart
 fastapi
 uvicorn
 gunicorn==19.9.0
