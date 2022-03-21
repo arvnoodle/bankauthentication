@@ -2,7 +2,6 @@
 # 1. Library imports
 import uvicorn
 from fastapi import FastAPI, Form
-from BankNotes import BankNote
 import numpy as np
 import pickle
 import pandas as pd
